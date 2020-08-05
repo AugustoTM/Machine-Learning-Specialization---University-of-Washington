@@ -1,2 +1,2 @@
-# coursera_courses
-Coursera courses with Python Notebooks/Codes
+# Machine Learning Specialization - University of Washington
+University of Washington courses from Coursera
