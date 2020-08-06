@@ -1,2 +1,4 @@
 # Machine Learning Specialization - University of Washington
-University of Washington courses from Coursera
+This repository has the codes used in the Machine Learning Specialization from University of Washington, which is available on Coursera.
+
+It is divided into 6 courses:
