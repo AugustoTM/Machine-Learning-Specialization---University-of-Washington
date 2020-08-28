@@ -5,6 +5,6 @@ This repository has the codes used in the Machine Learning Specialization from U
 It is divided into 4 courses:
 
 1. **Machine Learning Foundations: A Case Study Approach (6 Weeks)**
-2. **Machine Learning: Regression**
-3. **Machine Learning: Classification**
+2. **Machine Learning: Regression (6 Weeks)**
+3. **Machine Learning: Classification (7 Weeks)**
 4. **Machine Learning: Clustering & Retrieval**
