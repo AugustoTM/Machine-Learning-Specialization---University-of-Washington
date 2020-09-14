@@ -1,6 +1,6 @@
 # Machine Learning Specialization - University of Washington
 
-This repository has the codes used in the Machine Learning Specialization from University of Washington, which is available on Coursera.
+This repository has the codes used in the **Machine Learning Specialization** from **University of Washington**, which is available on **Coursera**.
 
 It is divided into 4 courses:
 
@@ -9,4 +9,4 @@ It is divided into 4 courses:
 3. **Machine Learning: Classification (7 Weeks)**
 4. **Machine Learning: Clustering & Retrieval (6 Weeks)**
 
-In each week, a Python Notebook was used to implement the weekly activity and obtain answers for the Quizzes. For this, the Turi Create package was used to achieve the results.
+In each week, a **Python Notebook** was used to implement the weekly activity and obtain answers for the Quizzes. For this, the **Turi Create** package was used to achieve the results.
